@@ -1,0 +1,16 @@
+{
+  "name": "Mindful Solitaire",
+  "short_name": "Solitaire",
+  "description": "A mindful solitaire game with art gallery reveals and brain age tracking.",
+  "start_url": "./solitaire-ipad.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111009",
+  "theme_color": "#1e1c14",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "apple_touch_icon": "./icon-180.png"
+}
