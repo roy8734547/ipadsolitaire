@@ -1,5 +1,5 @@
 // Mindful Solitaire iPad — Service Worker
-const CACHE = 'sol-ipad-v1';
+const CACHE = 'sol-ipad-v2';
 
 const SHELL = [
   './',
